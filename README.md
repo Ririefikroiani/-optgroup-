@@ -1,0 +1,2 @@
+# -optgroup-
+&lt;label for="cars">Choose a car:&lt;/label> &lt;select  name="cars" id="cars">   &lt;optgroup label="Swedish Cars">     &lt;option value="volvo">Volvo&lt;/option>     &lt;option value="saab">Saab&lt;/option>   &lt;/optgroup>   &lt;optgroup label="German Cars">     &lt;option value="mercedes">Mercedes&lt;/option>     &lt;option value="audi">Audi&lt;/option>   &lt;/optgroup> &lt;/select>
